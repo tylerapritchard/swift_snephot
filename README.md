@@ -13,7 +13,7 @@ export HEADAS
 
 source $HEADAS/headas-init.sh
 
-CALDB=/home/users/tp1632/bin/caldb
+CALDB=/home/users/tpritchard/bin/caldb
 export CALDB
 
 source $CALDB/software/tools/caldbinit.sh
