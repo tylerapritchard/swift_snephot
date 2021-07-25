@@ -1,7 +1,7 @@
 # swift_snephot
 # Swift Supernovae Photometry Pipeline from Pritchard et al. 2014 - https://ui.adsabs.harvard.edu/abs/2014ApJ...787..157P/abstract
 
-## Legacy, IDL, use at your own (extreme) risk as this repo is more for my records than anything as I haven't touched it since ~2014.  
+## Legacy, IDL, use at your own (extreme) risk.  This repo is more for my records than anything as I haven't touched it since ~2014.  
 
 Expects to have an up-to-date CALDB, HEADAS install, and a $SNE system variable for a data root directory, and a $SNEPL system variable for a photomety archive directory
 
